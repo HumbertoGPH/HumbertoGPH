@@ -1,6 +1,11 @@
 <h1 align="center">WELCOME👋</h1>
 <h3 align="center"> I'm Humberto from Perú</h3>
-
+<hr>  
+<p align="left">-🔭  I’m looking for pre-professional internships </p>
+<p> -🤝I’m looking to collaborate on  new proyects.  </p>
+<p> -🌱In my free time I play videogames and and listen to music. </p>
+<p> -👨‍💻I'm currently learning Computation and Informatic. </p>
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/iamcrissph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamcrissph" height="30" width="40" /></a>
